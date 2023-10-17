@@ -1,0 +1,7 @@
+D:\C# Apps\ecuatiaDeGradul1\bin\Debug\ecuatiaDeGradul1.exe.config
+D:\C# Apps\ecuatiaDeGradul1\bin\Debug\ecuatiaDeGradul1.exe
+D:\C# Apps\ecuatiaDeGradul1\bin\Debug\ecuatiaDeGradul1.pdb
+D:\C# Apps\ecuatiaDeGradul1\obj\Debug\ecuatiaDeGradul1.csproj.AssemblyReference.cache
+D:\C# Apps\ecuatiaDeGradul1\obj\Debug\ecuatiaDeGradul1.csproj.CoreCompileInputs.cache
+D:\C# Apps\ecuatiaDeGradul1\obj\Debug\ecuatiaDeGradul1.exe
+D:\C# Apps\ecuatiaDeGradul1\obj\Debug\ecuatiaDeGradul1.pdb
